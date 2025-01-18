@@ -6,14 +6,17 @@ This repository will hold my assignments for CTI.110.2837
 # About Me
 ## My Interests
 
-*Radio Control Airplanes
- *A fun weekend outdoor hobby
+* Radio Control Airplanes
 
-*Keeping Reptiles
- *An interesting and educational indoor hobby
+ * A fun weekend outdoor hobby
 
-*Playing with my 4-year old Daughter
- *Being a good dad is the most important thing 
+* Keeping Reptiles
+
+ * An interesting and educational indoor hobby
+
+* Playing with my 4-year old Daughter
+
+ * Being a good dad is the most important thing 
 
 ## Websites I Recommend
 
