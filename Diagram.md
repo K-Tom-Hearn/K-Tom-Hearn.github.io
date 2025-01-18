@@ -1,14 +1,15 @@
 ```mermaid
 
-## Create Pie Chart of Commonly owned Pet Snakes in Raleigh.
-
 pie showData
-    title Species of Snakes Owned by Reptile Enthusiasts in Raleigh NC
-    "Ball Python" : 1100
-    "Corn Snake" : 857
-    "King Snake" : 792
-    "Milk Snake" : 677
-    "Boa Constrictor" : 374
-    "Carpet Python" : 77
+
+    title Species of Pet Snake Owned by Enthusiasts in Raleigh NC
+
+    "Ball Python" : 2100
+
+    "Corn Snake" : 874
+
+    "King Snake" : 701
+
+    "Boa Constrictor" 47
 
 ```
