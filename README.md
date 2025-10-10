@@ -16,10 +16,4 @@ This is my github account that I will be using during my time at waketech.
 * Playing with my 4-year old Daughter
 -Being a good dad is the most important thing 
 
-## Websites I Recommend
 
-- [Motion RC](https://www.motionrc.com) - A great website for not only 
-purchasing RC airplanes but for detailed building tips as well.
-
-- [LLL Reptile](https://www.lllreptile.com) - A reliable vendor for quality 
-products to care for reptiles and amphibians.
